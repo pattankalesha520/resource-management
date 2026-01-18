@@ -39,7 +39,7 @@ Significantly lowered response time across varying workloads and cluster configu
 - **Scalable and Adaptive Orchestration:**
     Demonstrated effective scalability from small to large clusters, with dynamic management maintaining stable performance as system size and workload complexity increase.
 
-  **Energy-Aware and Cost-Efficient Operation:**
+- **Energy-Aware and Cost-Efficient Operation:**
   Minimized resource wastage and unnecessary over-provisioning, leading to reduced energy consumption and lower operational costs in large-scale container deployments.
    
 - **Industry, Research, and Educational Value:**
