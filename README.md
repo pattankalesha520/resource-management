@@ -48,23 +48,23 @@ Significantly lowered response time across varying workloads and cluster configu
   
 ### Experimental Results (Summary)
 
-  | Nodes | Baseline (ms) | AI-Optimized (ms) | Improvment (%)  |
+  | Nodes | Static (%)    | Dynamic (%)       | Improvment (%)  |
   |-------|---------------| ------------------| ----------------|
-  | 3     |  410          | 260               | 36.59           |
-  | 5     |  375          | 225               | 40.00           |
-  | 7     |  340          | 195               | 42.65           |
-  | 9     |  315          | 175               | 44.44           |
-  | 11    |  295          | 165               | 44.07           |
+  | 3     |  52           | 69                | 32.69           |
+  | 5     |  47           | 72                | 53.19           |
+  | 7     |  44           | 74                | 68.18           |
+  | 9     |  41           | 76                | 85.37           |
+  | 11    |  39           | 78                | 100.00          |
 
 ### Citation
-AI-DRIVEN SCALING STRATEGIES FOR ADAPTIVE WORKLOAD MANAGEMENT IN DISTRIBUTED CLOUD SYSTEMS
+INTELLIGENT RESOURCE MANAGEMENT IN CONTAINERIZED ORCHESTRATION SYSTEMS
 * Kalesha Khan Pattan
-* International Journal of Leading Research Publication 
-* ISSN E-ISSN: 2582-8010
+* International Journal of Innovative Research and Creative Technology 
+* ISSN E-ISSN: 2454-5988
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Resources** \
-https://www.ijlrp.com/ \
+https://www.ijirct.org/ \
 **Author Contact** \
 **LinkedIn**: https://www.linkedin.com/**** | **Email**: pattankalesha520@gmail.com
 
