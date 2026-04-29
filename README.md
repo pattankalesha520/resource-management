@@ -7,7 +7,7 @@
 - **Published In:** International Journal of Innovative Research and Creative Technology (IJIRCT)
 - **Publication Date:** Jan 2023
 - **ISSN:** E-ISSN: 2454-5988
-- **DOI:**
+- **DOI:** https://doi.org/10.5281/zenodo.17475893
 - **Impact Factor:** 9.142
 
 ### Abstract
@@ -66,7 +66,7 @@ This research is shared for a academic and research purposes. For commercial use
 **Resources** \
 https://www.ijirct.org/ \
 **Author Contact** \
-**LinkedIn**: https://www.linkedin.com/**** | **Email**: pattankalesha520@gmail.com
+**LinkedIn**: www.linkedin.com/in/pattan-khan-689978177 | **Email**: pattankalesha520@gmail.com
 
 
 
